@@ -90,12 +90,12 @@
             <li>
                 <strong>Sách Giáo Khoa</strong>
                 <a href="https://shopee.vn/" target="_blank">Mua trên Shopee</a>
-                <img src="https://via.placeholder.com/150" alt="Hình Sách Giáo Khoa">
+                <img "https://images.app.goo.gl/9TVzctJgZtAc6RycA " alt="Hình Sách Giáo Khoa">
             </li>
             <li>
                 <strong>Bút Bi</strong>
                 <a href="https://shopee.vn/" target="_blank">Mua trên Shopee</a>
-                <img src="https://via.placeholder.com/150" alt="Hình Bút Bi">
+                <img src="https://images.app.goo.gl/SjvvmZWuNTFRUYZm7 " alt="Hình Bút Bi">
             </li>
             <li>
                 <strong>Vở Ghi Chép</strong>
